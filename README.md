@@ -7,7 +7,11 @@ Forum https://forum.libreelec.tv/thread/12662-libreelec-9-x-rr-emulationstation-
 Kodi addons to start different apps on the build from 5schatten
 
 Chrome
+
 Spotify
+
 Emulationstation
+
 For use on another skin like aeon mq8
+
 Just install the addon and add the program addon somewhere in the menu
